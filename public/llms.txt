@@ -1,0 +1,59 @@
+# ענת מטבחים — Generative Engine Optimization Map
+
+> A נגרות ומטבחים business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-3496f478.zappy5.app
+גלו שירותי תכנון ועיצוב מטבחים מקצועיים המספקים תוצאות אמיתיות. צרו קשר היום לייעוץ ללא עלות!
+
+### שירותים
+https://-3496f478.zappy5.app/services
+גלו את מגוון שירותי הנגריה שלנו - תכנון ועיצוב מטבחים, ייצור מטבחים מעץ מלא בהתאמה אישית, והתקנה מקצועית. צרו קשר היום!
+
+### אודות
+https://-3496f478.zappy5.app/about
+למדו על הסיפור שלנו, הערכים והמומחיות בתחום הנגריה ותכנון ועיצוב מטבחים. שנים של ניסיון ביצירת מטבחים מעץ מלא בהתאמה אישית.
+
+### צור קשר
+https://-3496f478.zappy5.app/contact
+צרו קשר עם ענת מטבחים לקבלת ייעוץ מקצועי בתכנון ועיצוב מטבחים, נגריה, ותכנון והתקנת מטבחים מעוצבים. אנו כאן לעזור לכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3496f478.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3496f478.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3496f478.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ענת מטבחים
+ענת מטבחים is a business in the נגרות ומטבחים industry.
+
+## Target Audience
+- משפצים עירוניים
+- זוגות נשואים טריים
+- משקיעי נדל"ן יוקרתי
+
+## Industry
+נגרות ומטבחים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-3496f478.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-3496f478.zappy5.app/robots.txt
